@@ -1,0 +1,171 @@
+
+#header
+{
+    background-color: #7297F6;
+    padding: 10px;
+}
+
+.items_header
+{
+}
+
+#icons
+{
+    justify-content: space-around;
+    display: flex;
+}
+
+#icons span
+{
+    font-size: .4em !important;
+}
+
+#icons a
+{
+    text-decoration: none;
+    color: #212529;
+}
+
+#list_head
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#cart_head
+{
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+/* ------------------ */
+
+/* Le style de inscription */
+
+
+#inscription
+{
+}
+
+#inscription #content
+{
+    background-color: #8BACFF;
+    margin-top: 50px;
+}
+
+#btn_connexion
+{
+}
+
+#btn_inscription
+{
+}
+
+
+#btn_connexion h3
+{
+    color: white;
+    text-align: center;
+}
+
+#btn_inscription h3
+{
+    color:white;
+    text-align: center;
+}
+
+#btn_inscription h3 a
+{
+    color:white;
+    text-decoration: none;
+}
+
+#btn_connexion h3 a
+{
+    color:white;
+    text-decoration: none;
+}
+
+#inscription_form
+{
+    padding: 10px;
+}
+
+.confirmation_btn
+{
+    text-align: center;
+}
+
+.confirmation_btn button
+{
+    background-color: #3E6FED;
+    color:white;
+}
+
+.welcome_box
+{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.admin_panel
+{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+
+
+}
+
+.admin_panel a
+{
+    background-color: #7297f6;
+    color: white;
+}
+
+
+.add_to_cart
+{
+    background-color: #7297F6;
+    color: white;
+}
+
+.total
+{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: #f40000;
+    color: black;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+
+
+.confirm_command
+{
+    background-color: red;
+    color: white;
+}
+
+
+.statut
+{
+    background-color: #3E6FED;
+    color:white;
+    
+}
+
+
+
+.commande_center
+{
+    justify-content: space-around;
+    display: flex;
+}
